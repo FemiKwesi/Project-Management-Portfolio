@@ -4,15 +4,15 @@ Welcome to my Project Management Portfolio! Here, you'll find examples of my app
 Portfolio Overview
 In this repository, you will find three exercises that showcase my project management skills across diverse scenarios:
 
-Exercise 1: Project Takeover and Transition
+Project 1: Project Takeover and Transition
 In this exercise, I demonstrate how to seamlessly transition into an ongoing project where the previous project manager is no longer available. I outline my approach to quickly getting up to speed, meeting with team members, assessing the current project status, and identifying potential risks or knowledge gaps. This includes my plan to rebuild momentum and ensure team alignment to minimize disruptions and maintain project continuity.
 
-Exercise 2: Managing Project Risks and Schedule Adherence
+Project 2: Managing Project Risks and Schedule Adherence
 This exercise highlights my strategy for leading a new project and addressing risks promptly to stay on schedule. I discuss proactive risk management techniques and how to handle unforeseen issues that may arise during the project lifecycle. Here, I present a structured approach to monitoring project progress, anticipating delays, and making adjustments as necessary to keep the project on track.
 
-Exercise 3: Conflict Resolution and Team Accountability
+Project 3: Conflict Resolution and Team Accountability
 In the third exercise, I navigate a scenario involving a team member's underperformance, which is affecting the project deliverables and client satisfaction. I detail my approach to addressing performance issues respectfully and effectively, managing client expectations, and reinforcing team accountability. This exercise underscores my commitment to fostering a collaborative and high-performing team environment.
 
-Each exercise includes a recorded presentation, where I walk through my thought process, problem-solving techniques, and key project management tools and methodologies used to tackle these situations.
+The first 2 exercises includes a recorded presentation and project 3 is a paragraph of my approach where I walk through my thought process, problem-solving techniques, and key project management tools and methodologies used to tackle these situations.
 
 Thank you for exploring my project management journey!
