@@ -13,6 +13,8 @@ This exercise highlights my strategy for leading a new project and addressing ri
 Project 3: Conflict Resolution and Team Accountability
 In the third exercise, I navigate a scenario involving a team member's underperformance, which is affecting the project deliverables and client satisfaction. I detail my approach to addressing performance issues respectfully and effectively, managing client expectations, and reinforcing team accountability. This exercise underscores my commitment to fostering a collaborative and high-performing team environment.
 
+Please click on the individual projects listed in the section above to view 
+
 Each exercise includes a recorded presentation, where I walk through my thought process, problem-solving techniques, and key project management tools and methodologies used to tackle these situations.
 
 Thank you for exploring my project management journey!
